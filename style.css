@@ -4,7 +4,7 @@
  .first_part{
      height:700px;
      width:full;
-     background-image: url("/banner3.png");
+     background-image: url("/img/banner3.png");
      background-size: 100%,100%;
      background-repeat:no-repeat ;
     
@@ -80,7 +80,7 @@
 
     }
     .forth_part{
-        background-image: linear-gradient(to right, rgba(1, 95, 171, 1), rgba(1, 95, 171, 0)), url("/watch.png");
+        background-image: linear-gradient(to right, rgba(1, 95, 171, 1), rgba(1, 95, 171, 0)), url("img/watch.png");
         height: 300px;
         width:1000px;
         margin-left: 13%;
