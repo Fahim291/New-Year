@@ -4,7 +4,7 @@
  .first_part{
      height:700px;
      width:full;
-     background-image: url("banner3.png");
+     background-image: url("/banner3.png");
      background-size: 100%,100%;
      background-repeat:no-repeat ;
     
